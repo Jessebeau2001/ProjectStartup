@@ -1,3 +1,4 @@
+using System;
 using System.Collections;
 using System.Collections.Generic;
 
@@ -7,6 +8,7 @@ using UnityEngine.XR.ARSubsystems;
 
 public class ARTapToPlace : MonoBehaviour
 {
+    public GameObject ObjToPlace;
     public GameObject placementIndicator;
 
     private Pose placementPose;
@@ -21,6 +23,15 @@ public class ARTapToPlace : MonoBehaviour
     {
         UpdatePlacementPose();
         UpdatePlacementIndicator();
+
+        if (placementPoseValid && Input.touchCount > 0 && Input.GetTouch(0).phase ==  TouchPhase.Began) {
+            PlaceObject(ObjToPlace);
+        }
+    }
+
+    private void PlaceObject(GameObject placeable)
+    {
+        Instantiate(placeable, placementPose.position, placementPose.rotation);
     }
 
     private void UpdatePlacementIndicator() {

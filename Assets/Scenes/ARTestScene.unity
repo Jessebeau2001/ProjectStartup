@@ -319,6 +319,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 298c0f44abb4bb949af152d5ffcba74e, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
+  ObjToPlace: {fileID: 1072891672373106224, guid: 9a4bd51ea59f16e43b05351e2b7f277f, type: 3}
   placementIndicator: {fileID: 1518409760}
 --- !u!4 &985282340
 Transform:
@@ -697,7 +698,7 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 1072891672373106224, guid: 9a4bd51ea59f16e43b05351e2b7f277f, type: 3}
       propertyPath: m_IsActive
-      value: 1
+      value: 0
       objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 9a4bd51ea59f16e43b05351e2b7f277f, type: 3}
