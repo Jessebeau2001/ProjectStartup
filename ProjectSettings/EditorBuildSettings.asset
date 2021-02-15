@@ -4,5 +4,11 @@
 EditorBuildSettings:
   m_ObjectHideFlags: 0
   serializedVersion: 2
-  m_Scenes: []
-  m_configObjects: {}
+  m_Scenes:
+  - enabled: 1
+    path: Assets/Scenes/ARTestScene.unity
+    guid: 6f5b0414712d29d45a5074a2a42c6438
+  m_configObjects:
+    UnityEditor.XR.ARCore.ARCoreSettings: {fileID: 11400000, guid: d2b9d0a59b2ced74786053a2511ec254, type: 2}
+    com.unity.xr.management.loader_settings: {fileID: 11400000, guid: 3606c54810b338340a2d2c37b8ecd161, type: 2}
+    xr.sdk.mock-hmd.settings: {fileID: 11400000, guid: 945e9f19b60da3443815ae427051a515, type: 2}
