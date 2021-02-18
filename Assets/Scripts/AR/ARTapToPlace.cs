@@ -10,10 +10,11 @@ public class ARTapToPlace : MonoBehaviour
 {
     public GameObject ObjToPlace;
     public GameObject placementIndicator;
-
+    private int clickIndex = 0;
     private Pose placementPose;
     private ARRaycastManager raycastManager;
     private bool placementPoseValid = false;
+    public GameObject ARRootObject;
     void Start()
     {
         raycastManager = FindObjectOfType<ARRaycastManager>();
@@ -31,7 +32,19 @@ public class ARTapToPlace : MonoBehaviour
 
     private void PlaceObject(GameObject placeable)
     {
-        Instantiate(placeable, placementPose.position, placementPose.rotation);
+        if (clickIndex == 0) { //Code to set the 0/root point of all the Standard GameObjects that should be inialized on bootup
+            ARRootObject.transform.position = placementPose.position;
+        }
+
+        if (clickIndex > 0 && clickIndex <= 10) {
+            Instantiate(placeable, placementPose.position, placementPose.rotation);
+        }
+
+        if (clickIndex > 10) {
+            PhysicsRaycast();
+        }
+
+        clickIndex++;
     }
 
     private void UpdatePlacementIndicator() {
@@ -55,5 +68,28 @@ public class ARTapToPlace : MonoBehaviour
             placementPose = hits[0].pose;
         }
 
+    }
+
+    private void ARRayCastTest() {
+        Vector3 screenCenter = Camera.current.ViewportToScreenPoint(new Vector3(0.5f, 0.5f));
+        List<ARRaycastHit> hits = new List<ARRaycastHit>();
+
+        raycastManager.Raycast(screenCenter, hits);
+
+        if (hits.Count > 0) {
+            foreach(ARRaycastHit hit in hits) {
+                //???????
+            }
+        }
+    }
+
+    private void PhysicsRaycast() {
+        RaycastHit hit;
+        Vector3 screenCenter = Camera.current.ViewportToScreenPoint(new Vector3(0.5f, 0.5f));
+        Camera cam = Camera.current;
+
+        if (Physics.Raycast(cam.transform.position, cam.transform.TransformDirection(Vector3.forward), out hit, Mathf.Infinity)) {
+            Destroy(hit.transform.gameObject);
+        }
     }
 }
