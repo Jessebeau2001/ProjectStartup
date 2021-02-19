@@ -4,40 +4,39 @@ using UnityEngine;
 
 public class FriendCharacter : MonoBehaviour
 {
-    public GameObject parentWall;
-    private Vector3 movementModifier;
+    [SerializeField] private GameObject child;
+    private Vector3 stepSize;
     private Vector3 posHidden;
     private Vector3 posShown;
-    private bool isHidden = true;
-    void Start()
-    {
-        if (parentWall != null){
-            Debug.Log(parentWall.transform.localScale.z);
-            movementModifier.Set(0, 0, parentWall.transform.localScale.z);
-
-            posHidden = transform.position;
-            posShown = transform.position + movementModifier;
+    private bool hidden = true;
+    void Start() {
+        child = transform.GetChild(0).gameObject;
+        if (child != null) { //so the compiler wont complain about not being referenced
+            stepSize = new Vector3(0, 0, transform.localScale.z);
         }
+            
     }
 
     void Update() {
         if (Input.GetKeyDown(KeyCode.Space)) {
-            if (isHidden) {
-                UnHide();
-            } else {
-                Hide();
-            }
+            ToggleHide();
         }
     }
 
     public void UnHide() {
-        // transform.Translate(movementModifier);
-        transform.position = posShown;
-        isHidden = false;
+        child.transform.Translate(stepSize);
+        hidden = false;
     }
 
     public void Hide() {
-        transform.position = posHidden;
-        isHidden = true;
+        child.transform.Translate(stepSize * -1);
+        hidden = true;
+    }
+
+    public void ToggleHide() {
+        if (hidden)
+            UnHide();
+        else
+            Hide();
     }
 }

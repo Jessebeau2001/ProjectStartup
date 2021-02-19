@@ -15,9 +15,11 @@ public class ARTapToPlace : MonoBehaviour
     private ARRaycastManager raycastManager;
     private bool placementPoseValid = false;
     public GameObject ARRootObject;
+    public Color colorIndicator = new Color(0, 255, 0); 
     void Start()
     {
         raycastManager = FindObjectOfType<ARRaycastManager>();
+        ARRootObject.SetActive(false); //Hide all game related stuff before 0,0,0 has been set in the real world
     }
 
     void Update()
@@ -26,25 +28,26 @@ public class ARTapToPlace : MonoBehaviour
         UpdatePlacementIndicator();
 
         if (placementPoseValid && Input.touchCount > 0 && Input.GetTouch(0).phase ==  TouchPhase.Began) {
-            PlaceObject(ObjToPlace);
+            if (clickIndex == 0) { //Set 0,0,0 for Unity Root GameObject in the real world
+                ARRootObject.transform.position = placementPose.position;
+                ARRootObject.SetActive(true);
+            }
+
+            // if (clickIndex > 0 && clickIndex <= 10) {
+            //     PlaceObject(ObjToPlace);
+            // }
+
+            if (clickIndex > 0) {
+                PhysicsRaycast();
+            }
+
+            clickIndex++;
         }
     }
 
     private void PlaceObject(GameObject placeable)
     {
-        if (clickIndex == 0) { //Code to set the 0/root point of all the Standard GameObjects that should be inialized on bootup
-            ARRootObject.transform.position = placementPose.position;
-        }
-
-        if (clickIndex > 0 && clickIndex <= 10) {
-            Instantiate(placeable, placementPose.position, placementPose.rotation);
-        }
-
-        if (clickIndex > 10) {
-            PhysicsRaycast();
-        }
-
-        clickIndex++;
+        Instantiate(placeable, placementPose.position, placementPose.rotation);
     }
 
     private void UpdatePlacementIndicator() {
@@ -85,11 +88,22 @@ public class ARTapToPlace : MonoBehaviour
 
     private void PhysicsRaycast() {
         RaycastHit hit;
-        Vector3 screenCenter = Camera.current.ViewportToScreenPoint(new Vector3(0.5f, 0.5f));
         Camera cam = Camera.current;
 
         if (Physics.Raycast(cam.transform.position, cam.transform.TransformDirection(Vector3.forward), out hit, Mathf.Infinity)) {
-            Destroy(hit.transform.gameObject);
+            
+            FriendCharacter character = hit.transform.gameObject.GetComponent<FriendCharacter>();
+            if (character != null) {
+                character.UnHide();
+            }
+        }
+    }
+
+    private void PhysicsRaycastHighlight() {
+        RaycastHit hit;
+
+        if (Physics.Raycast(Camera.current.transform.position, Camera.current.transform.TransformDirection(Vector3.forward), out hit, Mathf.Infinity)) {
+            hit.transform.gameObject.GetComponent<Renderer>().material.color = colorIndicator;
         }
     }
 }

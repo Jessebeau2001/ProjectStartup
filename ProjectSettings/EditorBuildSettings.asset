@@ -5,7 +5,7 @@ EditorBuildSettings:
   m_ObjectHideFlags: 0
   serializedVersion: 2
   m_Scenes:
-  - enabled: 1
+  - enabled: 0
     path: Assets/Scenes/Scene Tom.unity
     guid: c28eb4368d2e79d448726e478ee7ee9d
   - enabled: 1
