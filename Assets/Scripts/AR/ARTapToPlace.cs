@@ -15,7 +15,8 @@ public class ARTapToPlace : MonoBehaviour
     private ARRaycastManager raycastManager;
     private bool placementPoseValid = false;
     public GameObject ARRootObject;
-    public Color colorIndicator = new Color(0, 255, 0); 
+    public Color colorIndicator = new Color(0, 255, 0);
+    public GameObject canvas;
     void Start()
     {
         raycastManager = FindObjectOfType<ARRaycastManager>();
@@ -31,6 +32,7 @@ public class ARTapToPlace : MonoBehaviour
             if (clickIndex == 0) { //Set 0,0,0 for Unity Root GameObject in the real world
                 ARRootObject.transform.position = placementPose.position;
                 ARRootObject.SetActive(true);
+                canvas.GetComponent<Animator>().SetBool("ShowText", false);
             }
 
             // if (clickIndex > 0 && clickIndex <= 10) {
@@ -94,7 +96,7 @@ public class ARTapToPlace : MonoBehaviour
             
             FriendCharacter character = hit.transform.gameObject.GetComponent<FriendCharacter>();
             if (character != null) {
-                character.UnHide();
+                character.ToggleHide();
             }
         }
     }

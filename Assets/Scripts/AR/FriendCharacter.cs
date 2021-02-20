@@ -4,15 +4,18 @@ using UnityEngine;
 
 public class FriendCharacter : MonoBehaviour
 {
-    [SerializeField] private GameObject child;
+    [SerializeField] private GameObject wall;
+    [SerializeField] private GameObject character;
+    [SerializeField] private Animator animator;
     private Vector3 stepSize;
-    private Vector3 posHidden;
-    private Vector3 posShown;
-    private bool hidden = true;
+    private bool _hidden = true;
     void Start() {
-        child = transform.GetChild(0).gameObject;
-        if (child != null) { //so the compiler wont complain about not being referenced
-            stepSize = new Vector3(0, 0, transform.localScale.z);
+        wall = transform.GetChild(0).gameObject;
+        character = transform.GetChild(1).gameObject;
+        animator = gameObject.GetComponent<Animator>();
+        
+        if (wall != null) { //so the compiler wont complain about not being referenced
+            stepSize = new Vector3(0, 0, wall.transform.lossyScale.z);
         }
             
     }
@@ -23,20 +26,16 @@ public class FriendCharacter : MonoBehaviour
         }
     }
 
-    public void UnHide() {
-        child.transform.Translate(stepSize);
-        hidden = false;
-    }
-
-    public void Hide() {
-        child.transform.Translate(stepSize * -1);
-        hidden = true;
-    }
-
     public void ToggleHide() {
-        if (hidden)
-            UnHide();
-        else
-            Hide();
+    _hidden = !_hidden;    
+    animator.SetBool("Hidden", _hidden);
+    }
+
+    public bool hidden {
+        get { return _hidden; }
+        set { 
+            _hidden = value; 
+            animator.SetBool("Hidden", _hidden);
+        }
     }
 }
