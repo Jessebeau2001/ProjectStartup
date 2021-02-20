@@ -1,0 +1,3010 @@
+fileFormatVersion: 2
+guid: f3c5262d57d200f499c70a3dfaf1d508
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -8878976487742010849
+    second: _DLE_SPRITE_0
+  - first:
+      213: -4227981499450388959
+    second: _DLE_SPRITE_1
+  - first:
+      213: 1988865037510957689
+    second: _DLE_SPRITE_2
+  - first:
+      213: 5115792201709981583
+    second: _DLE_SPRITE_3
+  - first:
+      213: 3018524835718290947
+    second: _DLE_SPRITE_4
+  - first:
+      213: -8553788536054063996
+    second: _DLE_SPRITE_5
+  - first:
+      213: 1998907215687344599
+    second: _DLE_SPRITE_6
+  - first:
+      213: 4926878360722722974
+    second: _DLE_SPRITE_7
+  - first:
+      213: 386434906585365937
+    second: _DLE_SPRITE_8
+  - first:
+      213: 5780722281939374273
+    second: _DLE_SPRITE_9
+  - first:
+      213: 3223888828635117389
+    second: _DLE_SPRITE_10
+  - first:
+      213: 450819938348732008
+    second: _DLE_SPRITE_11
+  - first:
+      213: -6136652603265187394
+    second: _DLE_SPRITE_12
+  - first:
+      213: -1955213105278366086
+    second: _DLE_SPRITE_13
+  - first:
+      213: -5159145642170870021
+    second: _DLE_SPRITE_14
+  - first:
+      213: 3811872173853471498
+    second: _DLE_SPRITE_15
+  - first:
+      213: 3440685517971745652
+    second: _DLE_SPRITE_16
+  - first:
+      213: -804274874343813757
+    second: _DLE_SPRITE_17
+  - first:
+      213: 7802537389659443733
+    second: _DLE_SPRITE_18
+  - first:
+      213: 72409427264444954
+    second: _DLE_SPRITE_19
+  - first:
+      213: -516349549719285270
+    second: _DLE_SPRITE_20
+  - first:
+      213: 563792250938331737
+    second: _DLE_SPRITE_21
+  - first:
+      213: 4744795307776650412
+    second: _DLE_SPRITE_22
+  - first:
+      213: -7897932337439624687
+    second: _DLE_SPRITE_23
+  - first:
+      213: -6706347077528658415
+    second: _DLE_SPRITE_24
+  - first:
+      213: -5775584962547678447
+    second: _DLE_SPRITE_25
+  - first:
+      213: -3233671084388800950
+    second: _DLE_SPRITE_26
+  - first:
+      213: 7986531422334291261
+    second: _DLE_SPRITE_27
+  - first:
+      213: -1925443132318697760
+    second: _DLE_SPRITE_28
+  - first:
+      213: -1662170374636333585
+    second: _DLE_SPRITE_29
+  - first:
+      213: -5530701592037674154
+    second: _DLE_SPRITE_30
+  - first:
+      213: -1784189860066772163
+    second: _DLE_SPRITE_31
+  - first:
+      213: -5672577831686793973
+    second: _DLE_SPRITE_32
+  - first:
+      213: -2830094959596267994
+    second: _DLE_SPRITE_33
+  - first:
+      213: 3715923131058263837
+    second: _DLE_SPRITE_34
+  - first:
+      213: -4844313830740618093
+    second: _DLE_SPRITE_35
+  - first:
+      213: 3187151338623562610
+    second: _DLE_SPRITE_36
+  - first:
+      213: -2636008441673174269
+    second: _DLE_SPRITE_37
+  - first:
+      213: 7450026204907946448
+    second: _DLE_SPRITE_38
+  - first:
+      213: -2007486851904345120
+    second: _DLE_SPRITE_39
+  - first:
+      213: 8051202000979021597
+    second: _DLE_SPRITE_40
+  - first:
+      213: 3977363479299346281
+    second: _DLE_SPRITE_41
+  - first:
+      213: -8328042237988258873
+    second: _DLE_SPRITE_42
+  - first:
+      213: 5100953582632181306
+    second: _DLE_SPRITE_43
+  - first:
+      213: -3102138557505815469
+    second: _DLE_SPRITE_44
+  - first:
+      213: 5756284719271742872
+    second: _DLE_SPRITE_45
+  - first:
+      213: -5611395225322799032
+    second: _DLE_SPRITE_46
+  - first:
+      213: 6730774016961856321
+    second: _DLE_SPRITE_47
+  - first:
+      213: 5514310337855209328
+    second: _DLE_SPRITE_48
+  - first:
+      213: -228159125944416239
+    second: _DLE_SPRITE_49
+  - first:
+      213: -4398774370794218113
+    second: _DLE_SPRITE_50
+  - first:
+      213: -1745604526830095465
+    second: _DLE_SPRITE_51
+  - first:
+      213: 2595647033537621514
+    second: _DLE_SPRITE_52
+  - first:
+      213: -3555786698140062451
+    second: _DLE_SPRITE_53
+  - first:
+      213: -3069948251653266716
+    second: _DLE_SPRITE_54
+  - first:
+      213: -4939948383953024854
+    second: _DLE_SPRITE_55
+  - first:
+      213: 8173850821928839014
+    second: _DLE_SPRITE_56
+  - first:
+      213: -109672647524272344
+    second: _DLE_SPRITE_57
+  - first:
+      213: 2379382947972352996
+    second: _DLE_SPRITE_58
+  - first:
+      213: -1258309302579887401
+    second: _DLE_SPRITE_59
+  - first:
+      213: 1112377509341518904
+    second: _DLE_SPRITE_60
+  - first:
+      213: 2513107910413361786
+    second: _DLE_SPRITE_61
+  - first:
+      213: -5256488270878126397
+    second: _DLE_SPRITE_62
+  - first:
+      213: 6619441584123699968
+    second: _DLE_SPRITE_63
+  - first:
+      213: -1698622329179299026
+    second: _DLE_SPRITE_64
+  - first:
+      213: -8536984991722912705
+    second: _DLE_SPRITE_65
+  - first:
+      213: -1686401256967620798
+    second: _DLE_SPRITE_66
+  - first:
+      213: -9032533898049280631
+    second: _DLE_SPRITE_67
+  - first:
+      213: 241934270195800071
+    second: _DLE_SPRITE_68
+  - first:
+      213: -8698506680912139216
+    second: _DLE_SPRITE_69
+  - first:
+      213: 9172157387792946689
+    second: _DLE_SPRITE_70
+  - first:
+      213: 1254681793394198560
+    second: _DLE_SPRITE_71
+  - first:
+      213: 3205150509515195337
+    second: _DLE_SPRITE_72
+  - first:
+      213: 1702605180637154865
+    second: _DLE_SPRITE_73
+  - first:
+      213: -7901278647452708009
+    second: _DLE_SPRITE_74
+  - first:
+      213: 8356708422821554935
+    second: _DLE_SPRITE_75
+  - first:
+      213: 783841863005883194
+    second: _DLE_SPRITE_76
+  - first:
+      213: -1795120486439441707
+    second: _DLE_SPRITE_77
+  - first:
+      213: -9027918519424903413
+    second: _DLE_SPRITE_78
+  - first:
+      213: 7848245072982733706
+    second: _DLE_SPRITE_79
+  - first:
+      213: 4230491514985339023
+    second: _DLE_SPRITE_80
+  - first:
+      213: 4844854775750780489
+    second: _DLE_SPRITE_81
+  - first:
+      213: -8267627076291162209
+    second: _DLE_SPRITE_82
+  - first:
+      213: 7357320101793148118
+    second: _DLE_SPRITE_83
+  - first:
+      213: -2081840275531142815
+    second: _DLE_SPRITE_84
+  - first:
+      213: -5934209178749432108
+    second: _DLE_SPRITE_85
+  - first:
+      213: 4618853494329857078
+    second: _DLE_SPRITE_86
+  - first:
+      213: 332283200350467235
+    second: _DLE_SPRITE_87
+  - first:
+      213: -5361037633194116646
+    second: _DLE_SPRITE_88
+  - first:
+      213: 5576934942256877669
+    second: _DLE_SPRITE_89
+  - first:
+      213: -650024021833500005
+    second: _DLE_SPRITE_90
+  - first:
+      213: -396886231944472722
+    second: _DLE_SPRITE_91
+  - first:
+      213: -4940101812938790659
+    second: _DLE_SPRITE_92
+  - first:
+      213: 459301997426129290
+    second: _DLE_SPRITE_93
+  - first:
+      213: 2568421990059627123
+    second: _DLE_SPRITE_94
+  - first:
+      213: 5203862282458444516
+    second: _DLE_SPRITE_95
+  - first:
+      213: 6609308188253638154
+    second: _DLE_SPRITE_96
+  - first:
+      213: -2762061126964959473
+    second: _DLE_SPRITE_97
+  - first:
+      213: 2273675158577298308
+    second: _DLE_SPRITE_98
+  - first:
+      213: 2909362646044543802
+    second: _DLE_SPRITE_99
+  - first:
+      213: -6115974727377680747
+    second: _DLE_SPRITE_100
+  - first:
+      213: 4521167522020802856
+    second: _DLE_SPRITE_101
+  - first:
+      213: -6301931094865146416
+    second: _DLE_SPRITE_102
+  - first:
+      213: -4539454667534967925
+    second: _DLE_SPRITE_103
+  - first:
+      213: 5785697046319204976
+    second: _DLE_SPRITE_104
+  - first:
+      213: 1054579283656818036
+    second: _DLE_SPRITE_105
+  - first:
+      213: 3872811884671121252
+    second: _DLE_SPRITE_106
+  - first:
+      213: 9108470910234198950
+    second: _DLE_SPRITE_107
+  - first:
+      213: 6041557798827003321
+    second: _DLE_SPRITE_108
+  - first:
+      213: 140855977916058347
+    second: _DLE_SPRITE_109
+  - first:
+      213: 3637240935072881539
+    second: _DLE_SPRITE_110
+  - first:
+      213: 2505749134803588599
+    second: _DLE_SPRITE_111
+  - first:
+      213: -5355286258273276179
+    second: _DLE_SPRITE_112
+  - first:
+      213: -2953758983069979016
+    second: _DLE_SPRITE_113
+  - first:
+      213: 5341188103012882463
+    second: _DLE_SPRITE_114
+  - first:
+      213: 4668495926392960197
+    second: _DLE_SPRITE_115
+  - first:
+      213: 7538913642249155040
+    second: _DLE_SPRITE_116
+  - first:
+      213: -3565295685842564284
+    second: _DLE_SPRITE_117
+  - first:
+      213: 4209762790384431485
+    second: _DLE_SPRITE_118
+  - first:
+      213: 8396698097391404478
+    second: _DLE_SPRITE_119
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: -1
+    aniso: -1
+    mipBias: -100
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: iPhone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: _DLE_SPRITE_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 7470
+        width: 1061
+        height: 830
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f1a871f5de987c480800000000000000
+      internalID: -8878976487742010849
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: _DLE_SPRITE_1
+      rect:
+        serializedVersion: 2
+        x: 1061
+        y: 7470
+        width: 1061
+        height: 830
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 12e06502a313355c0800000000000000
+      internalID: -4227981499450388959
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: _DLE_SPRITE_2
+      rect:
+        serializedVersion: 2
+        x: 2122
+        y: 7470
+        width: 1061
+        height: 830
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 97ad803d63ed99b10800000000000000
+      internalID: 1988865037510957689
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: _DLE_SPRITE_3
+      rect:
+        serializedVersion: 2
+        x: 3183
+        y: 7470
+        width: 1061
+        height: 830
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f8f03af17e1fef640800000000000000
+      internalID: 5115792201709981583
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: _DLE_SPRITE_4
+      rect:
+        serializedVersion: 2
+        x: 4244
+        y: 7470
+        width: 1061
+        height: 830
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 30edea26854f3e920800000000000000
+      internalID: 3018524835718290947
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: _DLE_SPRITE_5
+      rect:
+        serializedVersion: 2
+        x: 5305
+        y: 7470
+        width: 1061
+        height: 830
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 48c50b875a6da4980800000000000000
+      internalID: -8553788536054063996
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: _DLE_SPRITE_6
+      rect:
+        serializedVersion: 2
+        x: 6366
+        y: 7470
+        width: 1061
+        height: 830
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7d16202a58b8dbb10800000000000000
+      internalID: 1998907215687344599
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: _DLE_SPRITE_7
+      rect:
+        serializedVersion: 2
+        x: 7427
+        y: 7470
+        width: 1061
+        height: 830
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e90df6ee3c9cf5440800000000000000
+      internalID: 4926878360722722974
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: _DLE_SPRITE_8
+      rect:
+        serializedVersion: 2
+        x: 8488
+        y: 7470
+        width: 1061
+        height: 830
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1bdf4d70084ec5500800000000000000
+      internalID: 386434906585365937
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: _DLE_SPRITE_9
+      rect:
+        serializedVersion: 2
+        x: 9549
+        y: 7470
+        width: 1061
+        height: 830
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1c09e20b940493050800000000000000
+      internalID: 5780722281939374273
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: _DLE_SPRITE_10
+      rect:
+        serializedVersion: 2
+        x: 10610
+        y: 7470
+        width: 1061
+        height: 830
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d47752a0fcd8dbc20800000000000000
+      internalID: 3223888828635117389
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: _DLE_SPRITE_11
+      rect:
+        serializedVersion: 2
+        x: 11671
+        y: 7470
+        width: 1061
+        height: 830
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 86e80fa6852a14600800000000000000
+      internalID: 450819938348732008
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: _DLE_SPRITE_12
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 6640
+        width: 1061
+        height: 830
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: eb1076088fa36daa0800000000000000
+      internalID: -6136652603265187394
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: _DLE_SPRITE_13
+      rect:
+        serializedVersion: 2
+        x: 1061
+        y: 6640
+        width: 1061
+        height: 830
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a7ec1b73a00bdd4e0800000000000000
+      internalID: -1955213105278366086
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: _DLE_SPRITE_14
+      rect:
+        serializedVersion: 2
+        x: 2122
+        y: 6640
+        width: 1061
+        height: 830
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bf696ed6f580768b0800000000000000
+      internalID: -5159145642170870021
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: _DLE_SPRITE_15
+      rect:
+        serializedVersion: 2
+        x: 3183
+        y: 6640
+        width: 1061
+        height: 830
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a037bb3cb8d76e430800000000000000
+      internalID: 3811872173853471498
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: _DLE_SPRITE_16
+      rect:
+        serializedVersion: 2
+        x: 4244
+        y: 6640
+        width: 1061
+        height: 830
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 47b6982cf35cfbf20800000000000000
+      internalID: 3440685517971745652
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: _DLE_SPRITE_17
+      rect:
+        serializedVersion: 2
+        x: 5305
+        y: 6640
+        width: 1061
+        height: 830
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 38d07f45344a6d4f0800000000000000
+      internalID: -804274874343813757
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: _DLE_SPRITE_18
+      rect:
+        serializedVersion: 2
+        x: 6366
+        y: 6640
+        width: 1061
+        height: 830
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 512da519a6e284c60800000000000000
+      internalID: 7802537389659443733
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: _DLE_SPRITE_19
+      rect:
+        serializedVersion: 2
+        x: 7427
+        y: 6640
+        width: 1061
+        height: 830
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a1a9c7e8dff310100800000000000000
+      internalID: 72409427264444954
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: _DLE_SPRITE_20
+      rect:
+        serializedVersion: 2
+        x: 8488
+        y: 6640
+        width: 1061
+        height: 830
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ae19c0df1de85d8f0800000000000000
+      internalID: -516349549719285270
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: _DLE_SPRITE_21
+      rect:
+        serializedVersion: 2
+        x: 9549
+        y: 6640
+        width: 1061
+        height: 830
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9521c4ca01ef2d700800000000000000
+      internalID: 563792250938331737
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: _DLE_SPRITE_22
+      rect:
+        serializedVersion: 2
+        x: 10610
+        y: 6640
+        width: 1061
+        height: 830
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: caca7f38136e8d140800000000000000
+      internalID: 4744795307776650412
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: _DLE_SPRITE_23
+      rect:
+        serializedVersion: 2
+        x: 11671
+        y: 6640
+        width: 1061
+        height: 830
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 11237d65268e46290800000000000000
+      internalID: -7897932337439624687
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: _DLE_SPRITE_24
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 5810
+        width: 1061
+        height: 830
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 11edc6f5dd44ee2a0800000000000000
+      internalID: -6706347077528658415
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: _DLE_SPRITE_25
+      rect:
+        serializedVersion: 2
+        x: 1061
+        y: 5810
+        width: 1061
+        height: 830
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1130241b31009dfa0800000000000000
+      internalID: -5775584962547678447
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: _DLE_SPRITE_26
+      rect:
+        serializedVersion: 2
+        x: 2122
+        y: 5810
+        width: 1061
+        height: 830
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a46ad8e0841bf13d0800000000000000
+      internalID: -3233671084388800950
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: _DLE_SPRITE_27
+      rect:
+        serializedVersion: 2
+        x: 3183
+        y: 5810
+        width: 1061
+        height: 830
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d3d0bbf930cd5de60800000000000000
+      internalID: 7986531422334291261
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: _DLE_SPRITE_28
+      rect:
+        serializedVersion: 2
+        x: 4244
+        y: 5810
+        width: 1061
+        height: 830
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0e6bdee2ca37745e0800000000000000
+      internalID: -1925443132318697760
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: _DLE_SPRITE_29
+      rect:
+        serializedVersion: 2
+        x: 5305
+        y: 5810
+        width: 1061
+        height: 830
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fe59f9fc9d8cee8e0800000000000000
+      internalID: -1662170374636333585
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: _DLE_SPRITE_30
+      rect:
+        serializedVersion: 2
+        x: 6366
+        y: 5810
+        width: 1061
+        height: 830
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 65338e774300f33b0800000000000000
+      internalID: -5530701592037674154
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: _DLE_SPRITE_31
+      rect:
+        serializedVersion: 2
+        x: 7427
+        y: 5810
+        width: 1061
+        height: 830
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d3bbdda76c84d37e0800000000000000
+      internalID: -1784189860066772163
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: _DLE_SPRITE_32
+      rect:
+        serializedVersion: 2
+        x: 8488
+        y: 5810
+        width: 1061
+        height: 830
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b059d854484f641b0800000000000000
+      internalID: -5672577831686793973
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: _DLE_SPRITE_33
+      rect:
+        serializedVersion: 2
+        x: 9549
+        y: 5810
+        width: 1061
+        height: 830
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 62614a4f0ab79b8d0800000000000000
+      internalID: -2830094959596267994
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: _DLE_SPRITE_34
+      rect:
+        serializedVersion: 2
+        x: 10610
+        y: 5810
+        width: 1061
+        height: 830
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d17926f566c919330800000000000000
+      internalID: 3715923131058263837
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: _DLE_SPRITE_35
+      rect:
+        serializedVersion: 2
+        x: 11671
+        y: 5810
+        width: 1061
+        height: 830
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 394913abc3a85ccb0800000000000000
+      internalID: -4844313830740618093
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: _DLE_SPRITE_36
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 4980
+        width: 1061
+        height: 830
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 273711891490b3c20800000000000000
+      internalID: 3187151338623562610
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: _DLE_SPRITE_37
+      rect:
+        serializedVersion: 2
+        x: 1061
+        y: 4980
+        width: 1061
+        height: 830
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 303b329d9440b6bd0800000000000000
+      internalID: -2636008441673174269
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: _DLE_SPRITE_38
+      rect:
+        serializedVersion: 2
+        x: 2122
+        y: 4980
+        width: 1061
+        height: 830
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0d1c3e68c5fc36760800000000000000
+      internalID: 7450026204907946448
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: _DLE_SPRITE_39
+      rect:
+        serializedVersion: 2
+        x: 3183
+        y: 4980
+        width: 1061
+        height: 830
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0eb69f42859f324e0800000000000000
+      internalID: -2007486851904345120
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: _DLE_SPRITE_40
+      rect:
+        serializedVersion: 2
+        x: 4244
+        y: 4980
+        width: 1061
+        height: 830
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d1fc443109d9bbf60800000000000000
+      internalID: 8051202000979021597
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: _DLE_SPRITE_41
+      rect:
+        serializedVersion: 2
+        x: 5305
+        y: 4980
+        width: 1061
+        height: 830
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 96fcf3ee20f623730800000000000000
+      internalID: 3977363479299346281
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: _DLE_SPRITE_42
+      rect:
+        serializedVersion: 2
+        x: 6366
+        y: 4980
+        width: 1061
+        height: 830
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7cbb24a55b9dc6c80800000000000000
+      internalID: -8328042237988258873
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: _DLE_SPRITE_43
+      rect:
+        serializedVersion: 2
+        x: 7427
+        y: 4980
+        width: 1061
+        height: 830
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a3e1c84e14a3ac640800000000000000
+      internalID: 5100953582632181306
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: _DLE_SPRITE_44
+      rect:
+        serializedVersion: 2
+        x: 8488
+        y: 4980
+        width: 1061
+        height: 830
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 35cb2d3fa6df2f4d0800000000000000
+      internalID: -3102138557505815469
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: _DLE_SPRITE_45
+      rect:
+        serializedVersion: 2
+        x: 9549
+        y: 4980
+        width: 1061
+        height: 830
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 89d833e347e62ef40800000000000000
+      internalID: 5756284719271742872
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: _DLE_SPRITE_46
+      rect:
+        serializedVersion: 2
+        x: 10610
+        y: 4980
+        width: 1061
+        height: 830
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 840cf44e5c15022b0800000000000000
+      internalID: -5611395225322799032
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: _DLE_SPRITE_47
+      rect:
+        serializedVersion: 2
+        x: 11671
+        y: 4980
+        width: 1061
+        height: 830
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 143c078ae43886d50800000000000000
+      internalID: 6730774016961856321
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: _DLE_SPRITE_48
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 4150
+        width: 1061
+        height: 830
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 07fbf154904c68c40800000000000000
+      internalID: 5514310337855209328
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: _DLE_SPRITE_49
+      rect:
+        serializedVersion: 2
+        x: 1061
+        y: 4150
+        width: 1061
+        height: 830
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 118c1d9db7a65dcf0800000000000000
+      internalID: -228159125944416239
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: _DLE_SPRITE_50
+      rect:
+        serializedVersion: 2
+        x: 2122
+        y: 4150
+        width: 1061
+        height: 830
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f7dd7b5f30a64f2c0800000000000000
+      internalID: -4398774370794218113
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: _DLE_SPRITE_51
+      rect:
+        serializedVersion: 2
+        x: 3183
+        y: 4150
+        width: 1061
+        height: 830
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7937af37eed56c7e0800000000000000
+      internalID: -1745604526830095465
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: _DLE_SPRITE_52
+      rect:
+        serializedVersion: 2
+        x: 4244
+        y: 4150
+        width: 1061
+        height: 830
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a0e6e448937950420800000000000000
+      internalID: 2595647033537621514
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: _DLE_SPRITE_53
+      rect:
+        serializedVersion: 2
+        x: 5305
+        y: 4150
+        width: 1061
+        height: 830
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d0d6d4066de47aec0800000000000000
+      internalID: -3555786698140062451
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: _DLE_SPRITE_54
+      rect:
+        serializedVersion: 2
+        x: 6366
+        y: 4150
+        width: 1061
+        height: 830
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4e22065945a5565d0800000000000000
+      internalID: -3069948251653266716
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: _DLE_SPRITE_55
+      rect:
+        serializedVersion: 2
+        x: 7427
+        y: 4150
+        width: 1061
+        height: 830
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: aa807b52e17c17bb0800000000000000
+      internalID: -4939948383953024854
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: _DLE_SPRITE_56
+      rect:
+        serializedVersion: 2
+        x: 8488
+        y: 4150
+        width: 1061
+        height: 830
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6676a10040a5f6170800000000000000
+      internalID: 8173850821928839014
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: _DLE_SPRITE_57
+      rect:
+        serializedVersion: 2
+        x: 9549
+        y: 4150
+        width: 1061
+        height: 830
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8273db2ee4d5a7ef0800000000000000
+      internalID: -109672647524272344
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: _DLE_SPRITE_58
+      rect:
+        serializedVersion: 2
+        x: 10610
+        y: 4150
+        width: 1061
+        height: 830
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4eb83864f24450120800000000000000
+      internalID: 2379382947972352996
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: _DLE_SPRITE_59
+      rect:
+        serializedVersion: 2
+        x: 11671
+        y: 4150
+        width: 1061
+        height: 830
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7d2082a2b56998ee0800000000000000
+      internalID: -1258309302579887401
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: _DLE_SPRITE_60
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 3320
+        width: 1061
+        height: 830
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 83c5f6c7375ff6f00800000000000000
+      internalID: 1112377509341518904
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: _DLE_SPRITE_61
+      rect:
+        serializedVersion: 2
+        x: 1061
+        y: 3320
+        width: 1061
+        height: 830
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a72a96a545a50e220800000000000000
+      internalID: 2513107910413361786
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: _DLE_SPRITE_62
+      rect:
+        serializedVersion: 2
+        x: 2122
+        y: 3320
+        width: 1061
+        height: 830
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3ce4d4884c33d07b0800000000000000
+      internalID: -5256488270878126397
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: _DLE_SPRITE_63
+      rect:
+        serializedVersion: 2
+        x: 3183
+        y: 3320
+        width: 1061
+        height: 830
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0036429ac0bfcdb50800000000000000
+      internalID: 6619441584123699968
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: _DLE_SPRITE_64
+      rect:
+        serializedVersion: 2
+        x: 4244
+        y: 3320
+        width: 1061
+        height: 830
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e23a8b5cdf74d68e0800000000000000
+      internalID: -1698622329179299026
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: _DLE_SPRITE_65
+      rect:
+        serializedVersion: 2
+        x: 5305
+        y: 3320
+        width: 1061
+        height: 830
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f34c3838169868980800000000000000
+      internalID: -8536984991722912705
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: _DLE_SPRITE_66
+      rect:
+        serializedVersion: 2
+        x: 6366
+        y: 3320
+        width: 1061
+        height: 830
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2473ca1edf2b898e0800000000000000
+      internalID: -1686401256967620798
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: _DLE_SPRITE_67
+      rect:
+        serializedVersion: 2
+        x: 7427
+        y: 3320
+        width: 1061
+        height: 830
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9852911b64ef5a280800000000000000
+      internalID: -9032533898049280631
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: _DLE_SPRITE_68
+      rect:
+        serializedVersion: 2
+        x: 8488
+        y: 3320
+        width: 1061
+        height: 830
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 708930adfe58b5300800000000000000
+      internalID: 241934270195800071
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: _DLE_SPRITE_69
+      rect:
+        serializedVersion: 2
+        x: 9549
+        y: 3320
+        width: 1061
+        height: 830
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 03caed7a242b84780800000000000000
+      internalID: -8698506680912139216
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: _DLE_SPRITE_70
+      rect:
+        serializedVersion: 2
+        x: 10610
+        y: 3320
+        width: 1061
+        height: 830
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1069f5b4c8c0a4f70800000000000000
+      internalID: 9172157387792946689
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: _DLE_SPRITE_71
+      rect:
+        serializedVersion: 2
+        x: 11671
+        y: 3320
+        width: 1061
+        height: 830
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 02849698176896110800000000000000
+      internalID: 1254681793394198560
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: _DLE_SPRITE_72
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 2490
+        width: 1061
+        height: 830
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9c3c053286bfa7c20800000000000000
+      internalID: 3205150509515195337
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: _DLE_SPRITE_73
+      rect:
+        serializedVersion: 2
+        x: 1061
+        y: 2490
+        width: 1061
+        height: 830
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 13e0e98146ed0a710800000000000000
+      internalID: 1702605180637154865
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: _DLE_SPRITE_74
+      rect:
+        serializedVersion: 2
+        x: 2122
+        y: 2490
+        width: 1061
+        height: 830
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 753d333dee4095290800000000000000
+      internalID: -7901278647452708009
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: _DLE_SPRITE_75
+      rect:
+        serializedVersion: 2
+        x: 3183
+        y: 2490
+        width: 1061
+        height: 830
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7fa2bc9e80ef8f370800000000000000
+      internalID: 8356708422821554935
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: _DLE_SPRITE_76
+      rect:
+        serializedVersion: 2
+        x: 4244
+        y: 2490
+        width: 1061
+        height: 830
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a3bcb8c7504c0ea00800000000000000
+      internalID: 783841863005883194
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: _DLE_SPRITE_77
+      rect:
+        serializedVersion: 2
+        x: 5305
+        y: 2490
+        width: 1061
+        height: 830
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5da20c4bd637617e0800000000000000
+      internalID: -1795120486439441707
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: _DLE_SPRITE_78
+      rect:
+        serializedVersion: 2
+        x: 6366
+        y: 2490
+        width: 1061
+        height: 830
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b07128440f366b280800000000000000
+      internalID: -9027918519424903413
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: _DLE_SPRITE_79
+      rect:
+        serializedVersion: 2
+        x: 7427
+        y: 2490
+        width: 1061
+        height: 830
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a837855ef419aec60800000000000000
+      internalID: 7848245072982733706
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: _DLE_SPRITE_80
+      rect:
+        serializedVersion: 2
+        x: 8488
+        y: 2490
+        width: 1061
+        height: 830
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f8851086e99b5ba30800000000000000
+      internalID: 4230491514985339023
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: _DLE_SPRITE_81
+      rect:
+        serializedVersion: 2
+        x: 9549
+        y: 2490
+        width: 1061
+        height: 830
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 946eaf8dfb16c3340800000000000000
+      internalID: 4844854775750780489
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: _DLE_SPRITE_82
+      rect:
+        serializedVersion: 2
+        x: 10610
+        y: 2490
+        width: 1061
+        height: 830
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f9f83465afc734d80800000000000000
+      internalID: -8267627076291162209
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: _DLE_SPRITE_83
+      rect:
+        serializedVersion: 2
+        x: 11671
+        y: 2490
+        width: 1061
+        height: 830
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6dca83ed6a37a1660800000000000000
+      internalID: 7357320101793148118
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: _DLE_SPRITE_84
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1660
+        width: 1061
+        height: 830
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1696dd9ac41db13e0800000000000000
+      internalID: -2081840275531142815
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: _DLE_SPRITE_85
+      rect:
+        serializedVersion: 2
+        x: 1061
+        y: 1660
+        width: 1061
+        height: 830
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4de07c5513475ada0800000000000000
+      internalID: -5934209178749432108
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: _DLE_SPRITE_86
+      rect:
+        serializedVersion: 2
+        x: 2122
+        y: 1660
+        width: 1061
+        height: 830
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6345a1708c6791040800000000000000
+      internalID: 4618853494329857078
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: _DLE_SPRITE_87
+      rect:
+        serializedVersion: 2
+        x: 3183
+        y: 1660
+        width: 1061
+        height: 830
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3a438b96fc18c9400800000000000000
+      internalID: 332283200350467235
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: _DLE_SPRITE_88
+      rect:
+        serializedVersion: 2
+        x: 4244
+        y: 1660
+        width: 1061
+        height: 830
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ad9b6f53da4c995b0800000000000000
+      internalID: -5361037633194116646
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: _DLE_SPRITE_89
+      rect:
+        serializedVersion: 2
+        x: 5305
+        y: 1660
+        width: 1061
+        height: 830
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5605fa838c0456d40800000000000000
+      internalID: 5576934942256877669
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: _DLE_SPRITE_90
+      rect:
+        serializedVersion: 2
+        x: 6366
+        y: 1660
+        width: 1061
+        height: 830
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b9ab42b9896aaf6f0800000000000000
+      internalID: -650024021833500005
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: _DLE_SPRITE_91
+      rect:
+        serializedVersion: 2
+        x: 7427
+        y: 1660
+        width: 1061
+        height: 830
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e67d4b8231afd7af0800000000000000
+      internalID: -396886231944472722
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: _DLE_SPRITE_92
+      rect:
+        serializedVersion: 2
+        x: 8488
+        y: 1660
+        width: 1061
+        height: 830
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: df8258d239b317bb0800000000000000
+      internalID: -4940101812938790659
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: _DLE_SPRITE_93
+      rect:
+        serializedVersion: 2
+        x: 9549
+        y: 1660
+        width: 1061
+        height: 830
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a893631bbb4cf5600800000000000000
+      internalID: 459301997426129290
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: _DLE_SPRITE_94
+      rect:
+        serializedVersion: 2
+        x: 10610
+        y: 1660
+        width: 1061
+        height: 830
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3725ece113ed4a320800000000000000
+      internalID: 2568421990059627123
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: _DLE_SPRITE_95
+      rect:
+        serializedVersion: 2
+        x: 11671
+        y: 1660
+        width: 1061
+        height: 830
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4e23df5bc25d73840800000000000000
+      internalID: 5203862282458444516
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: _DLE_SPRITE_96
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 830
+        width: 1061
+        height: 830
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a0e40f397caf8bb50800000000000000
+      internalID: 6609308188253638154
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: _DLE_SPRITE_97
+      rect:
+        serializedVersion: 2
+        x: 1061
+        y: 830
+        width: 1061
+        height: 830
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f07a65ff9003ba9d0800000000000000
+      internalID: -2762061126964959473
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: _DLE_SPRITE_98
+      rect:
+        serializedVersion: 2
+        x: 2122
+        y: 830
+        width: 1061
+        height: 830
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 48b31a1a287bd8f10800000000000000
+      internalID: 2273675158577298308
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: _DLE_SPRITE_99
+      rect:
+        serializedVersion: 2
+        x: 3183
+        y: 830
+        width: 1061
+        height: 830
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a3b864089e1206820800000000000000
+      internalID: 2909362646044543802
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: _DLE_SPRITE_100
+      rect:
+        serializedVersion: 2
+        x: 4244
+        y: 830
+        width: 1061
+        height: 830
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5960367a361bf1ba0800000000000000
+      internalID: -6115974727377680747
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: _DLE_SPRITE_101
+      rect:
+        serializedVersion: 2
+        x: 5305
+        y: 830
+        width: 1061
+        height: 830
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 821451838e96ebe30800000000000000
+      internalID: 4521167522020802856
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: _DLE_SPRITE_102
+      rect:
+        serializedVersion: 2
+        x: 6366
+        y: 830
+        width: 1061
+        height: 830
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0dd039bee0b0b88a0800000000000000
+      internalID: -6301931094865146416
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: _DLE_SPRITE_103
+      rect:
+        serializedVersion: 2
+        x: 7427
+        y: 830
+        width: 1061
+        height: 830
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b8bd69be70e9001c0800000000000000
+      internalID: -4539454667534967925
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: _DLE_SPRITE_104
+      rect:
+        serializedVersion: 2
+        x: 8488
+        y: 830
+        width: 1061
+        height: 830
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 07a02e74fccea4050800000000000000
+      internalID: 5785697046319204976
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: _DLE_SPRITE_105
+      rect:
+        serializedVersion: 2
+        x: 9549
+        y: 830
+        width: 1061
+        height: 830
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 47db9d5654e92ae00800000000000000
+      internalID: 1054579283656818036
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: _DLE_SPRITE_106
+      rect:
+        serializedVersion: 2
+        x: 10610
+        y: 830
+        width: 1061
+        height: 830
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 467bbbbd3edfeb530800000000000000
+      internalID: 3872811884671121252
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: _DLE_SPRITE_107
+      rect:
+        serializedVersion: 2
+        x: 11671
+        y: 830
+        width: 1061
+        height: 830
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6a30d7bb80ac76e70800000000000000
+      internalID: 9108470910234198950
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: _DLE_SPRITE_108
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 1061
+        height: 830
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9bd0319fecce7d350800000000000000
+      internalID: 6041557798827003321
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: _DLE_SPRITE_109
+      rect:
+        serializedVersion: 2
+        x: 1061
+        y: 0
+        width: 1061
+        height: 830
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bea4d2004cb64f100800000000000000
+      internalID: 140855977916058347
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: _DLE_SPRITE_110
+      rect:
+        serializedVersion: 2
+        x: 2122
+        y: 0
+        width: 1061
+        height: 830
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 38b57890c531a7230800000000000000
+      internalID: 3637240935072881539
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: _DLE_SPRITE_111
+      rect:
+        serializedVersion: 2
+        x: 3183
+        y: 0
+        width: 1061
+        height: 830
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7f5d534ef8536c220800000000000000
+      internalID: 2505749134803588599
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: _DLE_SPRITE_112
+      rect:
+        serializedVersion: 2
+        x: 4244
+        y: 0
+        width: 1061
+        height: 830
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dee271985833ea5b0800000000000000
+      internalID: -5355286258273276179
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: _DLE_SPRITE_113
+      rect:
+        serializedVersion: 2
+        x: 5305
+        y: 0
+        width: 1061
+        height: 830
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 87eaef5cad32207d0800000000000000
+      internalID: -2953758983069979016
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: _DLE_SPRITE_114
+      rect:
+        serializedVersion: 2
+        x: 6366
+        y: 0
+        width: 1061
+        height: 830
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f1810a6e746bf1a40800000000000000
+      internalID: 5341188103012882463
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: _DLE_SPRITE_115
+      rect:
+        serializedVersion: 2
+        x: 7427
+        y: 0
+        width: 1061
+        height: 830
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5c4b2007f44d9c040800000000000000
+      internalID: 4668495926392960197
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: _DLE_SPRITE_116
+      rect:
+        serializedVersion: 2
+        x: 8488
+        y: 0
+        width: 1061
+        height: 830
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0e17b96c30a9f9860800000000000000
+      internalID: 7538913642249155040
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: _DLE_SPRITE_117
+      rect:
+        serializedVersion: 2
+        x: 9549
+        y: 0
+        width: 1061
+        height: 830
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 44b0f16a676858ec0800000000000000
+      internalID: -3565295685842564284
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: _DLE_SPRITE_118
+      rect:
+        serializedVersion: 2
+        x: 10610
+        y: 0
+        width: 1061
+        height: 830
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d71758d14f41c6a30800000000000000
+      internalID: 4209762790384431485
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: _DLE_SPRITE_119
+      rect:
+        serializedVersion: 2
+        x: 11671
+        y: 0
+        width: 1061
+        height: 830
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: eb586359e60178470800000000000000
+      internalID: 8396698097391404478
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

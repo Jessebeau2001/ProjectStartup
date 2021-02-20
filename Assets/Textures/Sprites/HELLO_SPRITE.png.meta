@@ -1,0 +1,3010 @@
+fileFormatVersion: 2
+guid: ef894afc4f385994cbe58bd541a5c9d1
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 7262157948335653004
+    second: HELLO_SPRITE_0
+  - first:
+      213: -3480333046298160215
+    second: HELLO_SPRITE_1
+  - first:
+      213: 2834513806490015401
+    second: HELLO_SPRITE_2
+  - first:
+      213: 5905787541867761901
+    second: HELLO_SPRITE_3
+  - first:
+      213: 6903064821286388187
+    second: HELLO_SPRITE_4
+  - first:
+      213: -1896675512344884866
+    second: HELLO_SPRITE_5
+  - first:
+      213: 5775749792035270085
+    second: HELLO_SPRITE_6
+  - first:
+      213: -2167749119644161969
+    second: HELLO_SPRITE_7
+  - first:
+      213: 8772152330477295970
+    second: HELLO_SPRITE_8
+  - first:
+      213: 9157238596158871014
+    second: HELLO_SPRITE_9
+  - first:
+      213: 2012068443475048072
+    second: HELLO_SPRITE_10
+  - first:
+      213: -1060060813240667680
+    second: HELLO_SPRITE_11
+  - first:
+      213: -1731901316691248663
+    second: HELLO_SPRITE_12
+  - first:
+      213: -6722891141616283111
+    second: HELLO_SPRITE_13
+  - first:
+      213: -1775925757688546575
+    second: HELLO_SPRITE_14
+  - first:
+      213: 6545610619140945441
+    second: HELLO_SPRITE_15
+  - first:
+      213: -2552590164423302563
+    second: HELLO_SPRITE_16
+  - first:
+      213: 7102403474314243747
+    second: HELLO_SPRITE_17
+  - first:
+      213: 1765579398187259386
+    second: HELLO_SPRITE_18
+  - first:
+      213: -7845370230215355917
+    second: HELLO_SPRITE_19
+  - first:
+      213: 7099912815334996442
+    second: HELLO_SPRITE_20
+  - first:
+      213: 4976611788158152255
+    second: HELLO_SPRITE_21
+  - first:
+      213: -3808245031920750809
+    second: HELLO_SPRITE_22
+  - first:
+      213: 7031482551073414226
+    second: HELLO_SPRITE_23
+  - first:
+      213: -1186702952537227267
+    second: HELLO_SPRITE_24
+  - first:
+      213: 3852455813430853977
+    second: HELLO_SPRITE_25
+  - first:
+      213: -6930483720957334584
+    second: HELLO_SPRITE_26
+  - first:
+      213: 5831255578533468450
+    second: HELLO_SPRITE_27
+  - first:
+      213: 97416415957820210
+    second: HELLO_SPRITE_28
+  - first:
+      213: -7902976300139863363
+    second: HELLO_SPRITE_29
+  - first:
+      213: -2737186507520259565
+    second: HELLO_SPRITE_30
+  - first:
+      213: 5748358456178228217
+    second: HELLO_SPRITE_31
+  - first:
+      213: -5620311076622465252
+    second: HELLO_SPRITE_32
+  - first:
+      213: -4404356686398816457
+    second: HELLO_SPRITE_33
+  - first:
+      213: -2279219760759460801
+    second: HELLO_SPRITE_34
+  - first:
+      213: 690054177739805825
+    second: HELLO_SPRITE_35
+  - first:
+      213: 8955329110641237530
+    second: HELLO_SPRITE_36
+  - first:
+      213: 4658035129478939469
+    second: HELLO_SPRITE_37
+  - first:
+      213: -4413178934202168750
+    second: HELLO_SPRITE_38
+  - first:
+      213: -8832550916815500482
+    second: HELLO_SPRITE_39
+  - first:
+      213: 6550720530429375810
+    second: HELLO_SPRITE_40
+  - first:
+      213: 4519480375250630515
+    second: HELLO_SPRITE_41
+  - first:
+      213: 7571324968223849949
+    second: HELLO_SPRITE_42
+  - first:
+      213: -8797545099902203135
+    second: HELLO_SPRITE_43
+  - first:
+      213: 4175927261361554775
+    second: HELLO_SPRITE_44
+  - first:
+      213: 3752198492086205990
+    second: HELLO_SPRITE_45
+  - first:
+      213: -6413762552794728427
+    second: HELLO_SPRITE_46
+  - first:
+      213: 2828999856663935516
+    second: HELLO_SPRITE_47
+  - first:
+      213: 3470003918111438444
+    second: HELLO_SPRITE_48
+  - first:
+      213: -9082125257573878137
+    second: HELLO_SPRITE_49
+  - first:
+      213: -7410511868562793575
+    second: HELLO_SPRITE_50
+  - first:
+      213: 8376959544000114157
+    second: HELLO_SPRITE_51
+  - first:
+      213: -7479981832780723821
+    second: HELLO_SPRITE_52
+  - first:
+      213: -8941605369400985015
+    second: HELLO_SPRITE_53
+  - first:
+      213: 8382924362530079324
+    second: HELLO_SPRITE_54
+  - first:
+      213: -6886121328792088360
+    second: HELLO_SPRITE_55
+  - first:
+      213: 7223003622104035518
+    second: HELLO_SPRITE_56
+  - first:
+      213: 2555889068696612595
+    second: HELLO_SPRITE_57
+  - first:
+      213: 7481318948121636075
+    second: HELLO_SPRITE_58
+  - first:
+      213: 4910542209906403345
+    second: HELLO_SPRITE_59
+  - first:
+      213: 3238943695342198788
+    second: HELLO_SPRITE_60
+  - first:
+      213: -7689425640348476810
+    second: HELLO_SPRITE_61
+  - first:
+      213: -5944643263896816329
+    second: HELLO_SPRITE_62
+  - first:
+      213: 692836934418851270
+    second: HELLO_SPRITE_63
+  - first:
+      213: 35791748590857322
+    second: HELLO_SPRITE_64
+  - first:
+      213: 7714654257321377590
+    second: HELLO_SPRITE_65
+  - first:
+      213: -3210267986161977746
+    second: HELLO_SPRITE_66
+  - first:
+      213: 8067105624659309015
+    second: HELLO_SPRITE_67
+  - first:
+      213: -4685487355566528133
+    second: HELLO_SPRITE_68
+  - first:
+      213: 5617657717087166671
+    second: HELLO_SPRITE_69
+  - first:
+      213: -551415874087971034
+    second: HELLO_SPRITE_70
+  - first:
+      213: 9177321204537477711
+    second: HELLO_SPRITE_71
+  - first:
+      213: 8311984424953293693
+    second: HELLO_SPRITE_72
+  - first:
+      213: -3199763751062130173
+    second: HELLO_SPRITE_73
+  - first:
+      213: -8891418751774481725
+    second: HELLO_SPRITE_74
+  - first:
+      213: 4691463581884094068
+    second: HELLO_SPRITE_75
+  - first:
+      213: 2221069092906065106
+    second: HELLO_SPRITE_76
+  - first:
+      213: -7273313455566142285
+    second: HELLO_SPRITE_77
+  - first:
+      213: -8240336247872101545
+    second: HELLO_SPRITE_78
+  - first:
+      213: 6622737026007998818
+    second: HELLO_SPRITE_79
+  - first:
+      213: -337506489184696993
+    second: HELLO_SPRITE_80
+  - first:
+      213: -3570161652740748567
+    second: HELLO_SPRITE_81
+  - first:
+      213: -145632831013962620
+    second: HELLO_SPRITE_82
+  - first:
+      213: 9048782627837736802
+    second: HELLO_SPRITE_83
+  - first:
+      213: 7135917355424733361
+    second: HELLO_SPRITE_84
+  - first:
+      213: -4336822868127230239
+    second: HELLO_SPRITE_85
+  - first:
+      213: 8804013534802548339
+    second: HELLO_SPRITE_86
+  - first:
+      213: -5320978673840135754
+    second: HELLO_SPRITE_87
+  - first:
+      213: -4257768871984470223
+    second: HELLO_SPRITE_88
+  - first:
+      213: 1769990089962231280
+    second: HELLO_SPRITE_89
+  - first:
+      213: 2333058644913393325
+    second: HELLO_SPRITE_90
+  - first:
+      213: -6705074947396255604
+    second: HELLO_SPRITE_91
+  - first:
+      213: -5172382176849777861
+    second: HELLO_SPRITE_92
+  - first:
+      213: 2557768790002715488
+    second: HELLO_SPRITE_93
+  - first:
+      213: 7394268828561477219
+    second: HELLO_SPRITE_94
+  - first:
+      213: -5421148903299611072
+    second: HELLO_SPRITE_95
+  - first:
+      213: 963245146579729778
+    second: HELLO_SPRITE_96
+  - first:
+      213: -5686819545016875105
+    second: HELLO_SPRITE_97
+  - first:
+      213: 5850725192192605167
+    second: HELLO_SPRITE_98
+  - first:
+      213: -576190668181427091
+    second: HELLO_SPRITE_99
+  - first:
+      213: -887233320396098460
+    second: HELLO_SPRITE_100
+  - first:
+      213: -8634906510523155409
+    second: HELLO_SPRITE_101
+  - first:
+      213: 4381868459780627790
+    second: HELLO_SPRITE_102
+  - first:
+      213: 2515768949775109059
+    second: HELLO_SPRITE_103
+  - first:
+      213: -2629190338083623400
+    second: HELLO_SPRITE_104
+  - first:
+      213: 2985032224268660584
+    second: HELLO_SPRITE_105
+  - first:
+      213: 7052688403449496885
+    second: HELLO_SPRITE_106
+  - first:
+      213: -5280962986331346032
+    second: HELLO_SPRITE_107
+  - first:
+      213: 3235331893115908032
+    second: HELLO_SPRITE_108
+  - first:
+      213: -653358342578839864
+    second: HELLO_SPRITE_109
+  - first:
+      213: 7301768052473814642
+    second: HELLO_SPRITE_110
+  - first:
+      213: -6674678352804793023
+    second: HELLO_SPRITE_111
+  - first:
+      213: 4363603979210622947
+    second: HELLO_SPRITE_112
+  - first:
+      213: 244817597769954841
+    second: HELLO_SPRITE_113
+  - first:
+      213: 1593894043212860684
+    second: HELLO_SPRITE_114
+  - first:
+      213: 487029337917091386
+    second: HELLO_SPRITE_115
+  - first:
+      213: -2461379447118758215
+    second: HELLO_SPRITE_116
+  - first:
+      213: -1856802723955900805
+    second: HELLO_SPRITE_117
+  - first:
+      213: 8874298514199897633
+    second: HELLO_SPRITE_118
+  - first:
+      213: 1130871310113261616
+    second: HELLO_SPRITE_119
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: -1
+    aniso: -1
+    mipBias: -100
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: iPhone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: HELLO_SPRITE_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 7470
+        width: 1100
+        height: 830
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c80835d6d2e58c460800000000000000
+      internalID: 7262157948335653004
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HELLO_SPRITE_1
+      rect:
+        serializedVersion: 2
+        x: 1100
+        y: 7470
+        width: 1100
+        height: 830
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9a35853b88f53bfc0800000000000000
+      internalID: -3480333046298160215
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HELLO_SPRITE_2
+      rect:
+        serializedVersion: 2
+        x: 2200
+        y: 7470
+        width: 1100
+        height: 830
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9a617c20a47365720800000000000000
+      internalID: 2834513806490015401
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HELLO_SPRITE_3
+      rect:
+        serializedVersion: 2
+        x: 3300
+        y: 7470
+        width: 1100
+        height: 830
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: de094f7aa7295f150800000000000000
+      internalID: 5905787541867761901
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HELLO_SPRITE_4
+      rect:
+        serializedVersion: 2
+        x: 4400
+        y: 7470
+        width: 1100
+        height: 830
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bd1454681ec9ccf50800000000000000
+      internalID: 6903064821286388187
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HELLO_SPRITE_5
+      rect:
+        serializedVersion: 2
+        x: 5500
+        y: 7470
+        width: 1100
+        height: 830
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e794088aba7ada5e0800000000000000
+      internalID: -1896675512344884866
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HELLO_SPRITE_6
+      rect:
+        serializedVersion: 2
+        x: 6600
+        y: 7470
+        width: 1100
+        height: 830
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5cd6cc9a5d5972050800000000000000
+      internalID: 5775749792035270085
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HELLO_SPRITE_7
+      rect:
+        serializedVersion: 2
+        x: 7700
+        y: 7470
+        width: 1100
+        height: 830
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f48a17139ab9ae1e0800000000000000
+      internalID: -2167749119644161969
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HELLO_SPRITE_8
+      rect:
+        serializedVersion: 2
+        x: 8800
+        y: 7470
+        width: 1100
+        height: 830
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 269d6b55112fcb970800000000000000
+      internalID: 8772152330477295970
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HELLO_SPRITE_9
+      rect:
+        serializedVersion: 2
+        x: 9900
+        y: 7470
+        width: 1100
+        height: 830
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6e5db8f6cfb051f70800000000000000
+      internalID: 9157238596158871014
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HELLO_SPRITE_10
+      rect:
+        serializedVersion: 2
+        x: 11000
+        y: 7470
+        width: 1100
+        height: 830
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8867a15c69d4ceb10800000000000000
+      internalID: 2012068443475048072
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HELLO_SPRITE_11
+      rect:
+        serializedVersion: 2
+        x: 12100
+        y: 7470
+        width: 1100
+        height: 830
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0e17a7a8e48e941f0800000000000000
+      internalID: -1060060813240667680
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HELLO_SPRITE_12
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 6640
+        width: 1100
+        height: 830
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9e93690bdec07f7e0800000000000000
+      internalID: -1731901316691248663
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HELLO_SPRITE_13
+      rect:
+        serializedVersion: 2
+        x: 1100
+        y: 6640
+        width: 1100
+        height: 830
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9125758402e73b2a0800000000000000
+      internalID: -6722891141616283111
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HELLO_SPRITE_14
+      rect:
+        serializedVersion: 2
+        x: 2200
+        y: 6640
+        width: 1100
+        height: 830
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1faf181cee4aa57e0800000000000000
+      internalID: -1775925757688546575
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HELLO_SPRITE_15
+      rect:
+        serializedVersion: 2
+        x: 3300
+        y: 6640
+        width: 1100
+        height: 830
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 126bbef8d2ea6da50800000000000000
+      internalID: 6545610619140945441
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HELLO_SPRITE_16
+      rect:
+        serializedVersion: 2
+        x: 4400
+        y: 6640
+        width: 1100
+        height: 830
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d52a46805c0639cd0800000000000000
+      internalID: -2552590164423302563
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HELLO_SPRITE_17
+      rect:
+        serializedVersion: 2
+        x: 5500
+        y: 6640
+        width: 1100
+        height: 830
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3ae200a645ec09260800000000000000
+      internalID: 7102403474314243747
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HELLO_SPRITE_18
+      rect:
+        serializedVersion: 2
+        x: 6600
+        y: 6640
+        width: 1100
+        height: 830
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: af513b3bb19908810800000000000000
+      internalID: 1765579398187259386
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HELLO_SPRITE_19
+      rect:
+        serializedVersion: 2
+        x: 7700
+        y: 6640
+        width: 1100
+        height: 830
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3f1d6989755af1390800000000000000
+      internalID: -7845370230215355917
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HELLO_SPRITE_20
+      rect:
+        serializedVersion: 2
+        x: 8800
+        y: 6640
+        width: 1100
+        height: 830
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ad9394ea615f78260800000000000000
+      internalID: 7099912815334996442
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HELLO_SPRITE_21
+      rect:
+        serializedVersion: 2
+        x: 9900
+        y: 6640
+        width: 1100
+        height: 830
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f3e203add0a701540800000000000000
+      internalID: 4976611788158152255
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HELLO_SPRITE_22
+      rect:
+        serializedVersion: 2
+        x: 11000
+        y: 6640
+        width: 1100
+        height: 830
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 72fa7b60255662bc0800000000000000
+      internalID: -3808245031920750809
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HELLO_SPRITE_23
+      rect:
+        serializedVersion: 2
+        x: 12100
+        y: 6640
+        width: 1100
+        height: 830
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 25c96153028d49160800000000000000
+      internalID: 7031482551073414226
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HELLO_SPRITE_24
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 5810
+        width: 1100
+        height: 830
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dff7c1cb3fbf78fe0800000000000000
+      internalID: -1186702952537227267
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HELLO_SPRITE_25
+      rect:
+        serializedVersion: 2
+        x: 1100
+        y: 5810
+        width: 1100
+        height: 830
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9514f60b62ca67530800000000000000
+      internalID: 3852455813430853977
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HELLO_SPRITE_26
+      rect:
+        serializedVersion: 2
+        x: 2200
+        y: 5810
+        width: 1100
+        height: 830
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8cbe5ba66c9f1df90800000000000000
+      internalID: -6930483720957334584
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HELLO_SPRITE_27
+      rect:
+        serializedVersion: 2
+        x: 3300
+        y: 5810
+        width: 1100
+        height: 830
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2299009ad08cce050800000000000000
+      internalID: 5831255578533468450
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HELLO_SPRITE_28
+      rect:
+        serializedVersion: 2
+        x: 4400
+        y: 5810
+        width: 1100
+        height: 830
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2332574d6b71a5100800000000000000
+      internalID: 97416415957820210
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HELLO_SPRITE_29
+      rect:
+        serializedVersion: 2
+        x: 5500
+        y: 5810
+        width: 1100
+        height: 830
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: db225d14decf25290800000000000000
+      internalID: -7902976300139863363
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HELLO_SPRITE_30
+      rect:
+        serializedVersion: 2
+        x: 6600
+        y: 5810
+        width: 1100
+        height: 830
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 31a4347af5f830ad0800000000000000
+      internalID: -2737186507520259565
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HELLO_SPRITE_31
+      rect:
+        serializedVersion: 2
+        x: 7700
+        y: 5810
+        width: 1100
+        height: 830
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9fbbd1e4f8546cf40800000000000000
+      internalID: 5748358456178228217
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HELLO_SPRITE_32
+      rect:
+        serializedVersion: 2
+        x: 8800
+        y: 5810
+        width: 1100
+        height: 830
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c1789be7ad4a002b0800000000000000
+      internalID: -5620311076622465252
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HELLO_SPRITE_33
+      rect:
+        serializedVersion: 2
+        x: 9900
+        y: 5810
+        width: 1100
+        height: 830
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 73ff413dde490e2c0800000000000000
+      internalID: -4404356686398816457
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HELLO_SPRITE_34
+      rect:
+        serializedVersion: 2
+        x: 11000
+        y: 5810
+        width: 1100
+        height: 830
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f3ca1e214b59e50e0800000000000000
+      internalID: -2279219760759460801
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HELLO_SPRITE_35
+      rect:
+        serializedVersion: 2
+        x: 12100
+        y: 5810
+        width: 1100
+        height: 830
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 18494fb5e90939900800000000000000
+      internalID: 690054177739805825
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HELLO_SPRITE_36
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 4980
+        width: 1100
+        height: 830
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a1e5c76f068b74c70800000000000000
+      internalID: 8955329110641237530
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HELLO_SPRITE_37
+      rect:
+        serializedVersion: 2
+        x: 1100
+        y: 4980
+        width: 1100
+        height: 830
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d4302eb554aa4a040800000000000000
+      internalID: 4658035129478939469
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HELLO_SPRITE_38
+      rect:
+        serializedVersion: 2
+        x: 2200
+        y: 4980
+        width: 1100
+        height: 830
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 25a84a0342d31c2c0800000000000000
+      internalID: -4413178934202168750
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HELLO_SPRITE_39
+      rect:
+        serializedVersion: 2
+        x: 3300
+        y: 4980
+        width: 1100
+        height: 830
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e3b49aeecb97c6580800000000000000
+      internalID: -8832550916815500482
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HELLO_SPRITE_40
+      rect:
+        serializedVersion: 2
+        x: 4400
+        y: 4980
+        width: 1100
+        height: 830
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 245f91f7d95d8ea50800000000000000
+      internalID: 6550720530429375810
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HELLO_SPRITE_41
+      rect:
+        serializedVersion: 2
+        x: 5500
+        y: 4980
+        width: 1100
+        height: 830
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 377b920c47b68be30800000000000000
+      internalID: 4519480375250630515
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HELLO_SPRITE_42
+      rect:
+        serializedVersion: 2
+        x: 6600
+        y: 4980
+        width: 1100
+        height: 830
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ddd370aa1ffb21960800000000000000
+      internalID: 7571324968223849949
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HELLO_SPRITE_43
+      rect:
+        serializedVersion: 2
+        x: 7700
+        y: 4980
+        width: 1100
+        height: 830
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 10bc9d0d757d8e580800000000000000
+      internalID: -8797545099902203135
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HELLO_SPRITE_44
+      rect:
+        serializedVersion: 2
+        x: 8800
+        y: 4980
+        width: 1100
+        height: 830
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 755435d18bfd3f930800000000000000
+      internalID: 4175927261361554775
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HELLO_SPRITE_45
+      rect:
+        serializedVersion: 2
+        x: 9900
+        y: 4980
+        width: 1100
+        height: 830
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 62efd8706ac721430800000000000000
+      internalID: 3752198492086205990
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HELLO_SPRITE_46
+      rect:
+        serializedVersion: 2
+        x: 11000
+        y: 4980
+        width: 1100
+        height: 830
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 518b7f690fcbdf6a0800000000000000
+      internalID: -6413762552794728427
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HELLO_SPRITE_47
+      rect:
+        serializedVersion: 2
+        x: 12100
+        y: 4980
+        width: 1100
+        height: 830
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c1ab5168160a24720800000000000000
+      internalID: 2828999856663935516
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HELLO_SPRITE_48
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 4150
+        width: 1100
+        height: 830
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c66fe3cbd2ee72030800000000000000
+      internalID: 3470003918111438444
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HELLO_SPRITE_49
+      rect:
+        serializedVersion: 2
+        x: 1100
+        y: 4150
+        width: 1100
+        height: 830
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 786b4b8823fc5f180800000000000000
+      internalID: -9082125257573878137
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HELLO_SPRITE_50
+      rect:
+        serializedVersion: 2
+        x: 2200
+        y: 4150
+        width: 1100
+        height: 830
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 99b9f76d7b2982990800000000000000
+      internalID: -7410511868562793575
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HELLO_SPRITE_51
+      rect:
+        serializedVersion: 2
+        x: 3300
+        y: 4150
+        width: 1100
+        height: 830
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dede1fd7250f04470800000000000000
+      internalID: 8376959544000114157
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HELLO_SPRITE_52
+      rect:
+        serializedVersion: 2
+        x: 4400
+        y: 4150
+        width: 1100
+        height: 830
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 399caba5724c13890800000000000000
+      internalID: -7479981832780723821
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HELLO_SPRITE_53
+      rect:
+        serializedVersion: 2
+        x: 5500
+        y: 4150
+        width: 1100
+        height: 830
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 94af02b8a4909e380800000000000000
+      internalID: -8941605369400985015
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HELLO_SPRITE_54
+      rect:
+        serializedVersion: 2
+        x: 6600
+        y: 4150
+        width: 1100
+        height: 830
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c52c2970b41265470800000000000000
+      internalID: 8382924362530079324
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HELLO_SPRITE_55
+      rect:
+        serializedVersion: 2
+        x: 7700
+        y: 4150
+        width: 1100
+        height: 830
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8d05b1db2259f60a0800000000000000
+      internalID: -6886121328792088360
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HELLO_SPRITE_56
+      rect:
+        serializedVersion: 2
+        x: 8800
+        y: 4150
+        width: 1100
+        height: 830
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: eb0fed276834d3460800000000000000
+      internalID: 7223003622104035518
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HELLO_SPRITE_57
+      rect:
+        serializedVersion: 2
+        x: 9900
+        y: 4150
+        width: 1100
+        height: 830
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3fe27f8f097587320800000000000000
+      internalID: 2555889068696612595
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HELLO_SPRITE_58
+      rect:
+        serializedVersion: 2
+        x: 11000
+        y: 4150
+        width: 1100
+        height: 830
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bec603212fbf2d760800000000000000
+      internalID: 7481318948121636075
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HELLO_SPRITE_59
+      rect:
+        serializedVersion: 2
+        x: 12100
+        y: 4150
+        width: 1100
+        height: 830
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 118680c6f10c52440800000000000000
+      internalID: 4910542209906403345
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HELLO_SPRITE_60
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 3320
+        width: 1100
+        height: 830
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 400ec58512a03fc20800000000000000
+      internalID: 3238943695342198788
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HELLO_SPRITE_61
+      rect:
+        serializedVersion: 2
+        x: 1100
+        y: 3320
+        width: 1100
+        height: 830
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 67a9f34de1ca94590800000000000000
+      internalID: -7689425640348476810
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HELLO_SPRITE_62
+      rect:
+        serializedVersion: 2
+        x: 2200
+        y: 3320
+        width: 1100
+        height: 830
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 735f2039272608da0800000000000000
+      internalID: -5944643263896816329
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HELLO_SPRITE_63
+      rect:
+        serializedVersion: 2
+        x: 3300
+        y: 3320
+        width: 1100
+        height: 830
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6c56e4365837d9900800000000000000
+      internalID: 692836934418851270
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HELLO_SPRITE_64
+      rect:
+        serializedVersion: 2
+        x: 4400
+        y: 3320
+        width: 1100
+        height: 830
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a6ce5acd7682f7000800000000000000
+      internalID: 35791748590857322
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HELLO_SPRITE_65
+      rect:
+        serializedVersion: 2
+        x: 5500
+        y: 3320
+        width: 1100
+        height: 830
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 63f789c4c25ff0b60800000000000000
+      internalID: 7714654257321377590
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HELLO_SPRITE_66
+      rect:
+        serializedVersion: 2
+        x: 6600
+        y: 3320
+        width: 1100
+        height: 830
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e66b10b7646d273d0800000000000000
+      internalID: -3210267986161977746
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HELLO_SPRITE_67
+      rect:
+        serializedVersion: 2
+        x: 7700
+        y: 3320
+        width: 1100
+        height: 830
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7d1bf5303dd14ff60800000000000000
+      internalID: 8067105624659309015
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HELLO_SPRITE_68
+      rect:
+        serializedVersion: 2
+        x: 8800
+        y: 3320
+        width: 1100
+        height: 830
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b796fdb231ec9feb0800000000000000
+      internalID: -4685487355566528133
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HELLO_SPRITE_69
+      rect:
+        serializedVersion: 2
+        x: 9900
+        y: 3320
+        width: 1100
+        height: 830
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fc066b81eede5fd40800000000000000
+      internalID: 5617657717087166671
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HELLO_SPRITE_70
+      rect:
+        serializedVersion: 2
+        x: 11000
+        y: 3320
+        width: 1100
+        height: 830
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 627997d1f2af858f0800000000000000
+      internalID: -551415874087971034
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HELLO_SPRITE_71
+      rect:
+        serializedVersion: 2
+        x: 12100
+        y: 3320
+        width: 1100
+        height: 830
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f4acd1213056c5f70800000000000000
+      internalID: 9177321204537477711
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HELLO_SPRITE_72
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 2490
+        width: 1100
+        height: 830
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d7babe3bbc91a5370800000000000000
+      internalID: 8311984424953293693
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HELLO_SPRITE_73
+      rect:
+        serializedVersion: 2
+        x: 1100
+        y: 2490
+        width: 1100
+        height: 830
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 30235cc42d72893d0800000000000000
+      internalID: -3199763751062130173
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HELLO_SPRITE_74
+      rect:
+        serializedVersion: 2
+        x: 2200
+        y: 2490
+        width: 1100
+        height: 830
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3c22c3701c55b9480800000000000000
+      internalID: -8891418751774481725
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HELLO_SPRITE_75
+      rect:
+        serializedVersion: 2
+        x: 3300
+        y: 2490
+        width: 1100
+        height: 830
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 47612e2754d6b1140800000000000000
+      internalID: 4691463581884094068
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HELLO_SPRITE_76
+      rect:
+        serializedVersion: 2
+        x: 4400
+        y: 2490
+        width: 1100
+        height: 830
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2dcd3408292d2de10800000000000000
+      internalID: 2221069092906065106
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HELLO_SPRITE_77
+      rect:
+        serializedVersion: 2
+        x: 5500
+        y: 2490
+        width: 1100
+        height: 830
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3b449e4a2ffff0b90800000000000000
+      internalID: -7273313455566142285
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HELLO_SPRITE_78
+      rect:
+        serializedVersion: 2
+        x: 6600
+        y: 2490
+        width: 1100
+        height: 830
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 753eecb77d174ad80800000000000000
+      internalID: -8240336247872101545
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HELLO_SPRITE_79
+      rect:
+        serializedVersion: 2
+        x: 7700
+        y: 2490
+        width: 1100
+        height: 830
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 261a8048c30b8eb50800000000000000
+      internalID: 6622737026007998818
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HELLO_SPRITE_80
+      rect:
+        serializedVersion: 2
+        x: 8800
+        y: 2490
+        width: 1100
+        height: 830
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f55c1c2e2afe05bf0800000000000000
+      internalID: -337506489184696993
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HELLO_SPRITE_81
+      rect:
+        serializedVersion: 2
+        x: 9900
+        y: 2490
+        width: 1100
+        height: 830
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9ea8aa174ec347ec0800000000000000
+      internalID: -3570161652740748567
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HELLO_SPRITE_82
+      rect:
+        serializedVersion: 2
+        x: 11000
+        y: 2490
+        width: 1100
+        height: 830
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 48c37c736bb9afdf0800000000000000
+      internalID: -145632831013962620
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HELLO_SPRITE_83
+      rect:
+        serializedVersion: 2
+        x: 12100
+        y: 2490
+        width: 1100
+        height: 830
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2677ef58bdbb39d70800000000000000
+      internalID: 9048782627837736802
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HELLO_SPRITE_84
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1660
+        width: 1100
+        height: 830
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1b8d2ace60fd70360800000000000000
+      internalID: 7135917355424733361
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HELLO_SPRITE_85
+      rect:
+        serializedVersion: 2
+        x: 1100
+        y: 1660
+        width: 1100
+        height: 830
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1e65c73349280d3c0800000000000000
+      internalID: -4336822868127230239
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HELLO_SPRITE_86
+      rect:
+        serializedVersion: 2
+        x: 2200
+        y: 1660
+        width: 1100
+        height: 830
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 37613ab0aa32e2a70800000000000000
+      internalID: 8804013534802548339
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HELLO_SPRITE_87
+      rect:
+        serializedVersion: 2
+        x: 3300
+        y: 1660
+        width: 1100
+        height: 830
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6b1645086161826b0800000000000000
+      internalID: -5320978673840135754
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HELLO_SPRITE_88
+      rect:
+        serializedVersion: 2
+        x: 4400
+        y: 1660
+        width: 1100
+        height: 830
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 13766a105cd59e4c0800000000000000
+      internalID: -4257768871984470223
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HELLO_SPRITE_89
+      rect:
+        serializedVersion: 2
+        x: 5500
+        y: 1660
+        width: 1100
+        height: 830
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0f51928eb94409810800000000000000
+      internalID: 1769990089962231280
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HELLO_SPRITE_90
+      rect:
+        serializedVersion: 2
+        x: 6600
+        y: 1660
+        width: 1100
+        height: 830
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dae873af970b06020800000000000000
+      internalID: 2333058644913393325
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HELLO_SPRITE_91
+      rect:
+        serializedVersion: 2
+        x: 7700
+        y: 1660
+        width: 1100
+        height: 830
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c8043104cd9c2f2a0800000000000000
+      internalID: -6705074947396255604
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HELLO_SPRITE_92
+      rect:
+        serializedVersion: 2
+        x: 8800
+        y: 1660
+        width: 1100
+        height: 830
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b3bae4a80d10838b0800000000000000
+      internalID: -5172382176849777861
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HELLO_SPRITE_93
+      rect:
+        serializedVersion: 2
+        x: 9900
+        y: 1660
+        width: 1100
+        height: 830
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 06b41b1b9250f7320800000000000000
+      internalID: 2557768790002715488
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HELLO_SPRITE_94
+      rect:
+        serializedVersion: 2
+        x: 11000
+        y: 1660
+        width: 1100
+        height: 830
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 36e8624b258bd9660800000000000000
+      internalID: 7394268828561477219
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HELLO_SPRITE_95
+      rect:
+        serializedVersion: 2
+        x: 12100
+        y: 1660
+        width: 1100
+        height: 830
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 04604508bc534c4b0800000000000000
+      internalID: -5421148903299611072
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HELLO_SPRITE_96
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 830
+        width: 1100
+        height: 830
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 27df0897b522e5d00800000000000000
+      internalID: 963245146579729778
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HELLO_SPRITE_97
+      rect:
+        serializedVersion: 2
+        x: 1100
+        y: 830
+        width: 1100
+        height: 830
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f97458df0cb5411b0800000000000000
+      internalID: -5686819545016875105
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HELLO_SPRITE_98
+      rect:
+        serializedVersion: 2
+        x: 2200
+        y: 830
+        width: 1100
+        height: 830
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: febb1175093f13150800000000000000
+      internalID: 5850725192192605167
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HELLO_SPRITE_99
+      rect:
+        serializedVersion: 2
+        x: 3300
+        y: 830
+        width: 1100
+        height: 830
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d6ca62cd3a5f008f0800000000000000
+      internalID: -576190668181427091
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HELLO_SPRITE_100
+      rect:
+        serializedVersion: 2
+        x: 4400
+        y: 830
+        width: 1100
+        height: 830
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 46476e0fef9efa3f0800000000000000
+      internalID: -887233320396098460
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HELLO_SPRITE_101
+      rect:
+        serializedVersion: 2
+        x: 5500
+        y: 830
+        width: 1100
+        height: 830
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f2c3f834746aa2880800000000000000
+      internalID: -8634906510523155409
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HELLO_SPRITE_102
+      rect:
+        serializedVersion: 2
+        x: 6600
+        y: 830
+        width: 1100
+        height: 830
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e4d56b5e5268fcc30800000000000000
+      internalID: 4381868459780627790
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HELLO_SPRITE_103
+      rect:
+        serializedVersion: 2
+        x: 7700
+        y: 830
+        width: 1100
+        height: 830
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3cb8d4cd78ec9e220800000000000000
+      internalID: 2515768949775109059
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HELLO_SPRITE_104
+      rect:
+        serializedVersion: 2
+        x: 8800
+        y: 830
+        width: 1100
+        height: 830
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 81ee2ab415d338bd0800000000000000
+      internalID: -2629190338083623400
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HELLO_SPRITE_105
+      rect:
+        serializedVersion: 2
+        x: 9900
+        y: 830
+        width: 1100
+        height: 830
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 86fa0aa1ef6fc6920800000000000000
+      internalID: 2985032224268660584
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HELLO_SPRITE_106
+      rect:
+        serializedVersion: 2
+        x: 11000
+        y: 830
+        width: 1100
+        height: 830
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 535cf177cbe20e160800000000000000
+      internalID: 7052688403449496885
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HELLO_SPRITE_107
+      rect:
+        serializedVersion: 2
+        x: 12100
+        y: 830
+        width: 1100
+        height: 830
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 09bebb7c42046b6b0800000000000000
+      internalID: -5280962986331346032
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HELLO_SPRITE_108
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 1100
+        height: 830
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0cf6aab173536ec20800000000000000
+      internalID: 3235331893115908032
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HELLO_SPRITE_109
+      rect:
+        serializedVersion: 2
+        x: 1100
+        y: 0
+        width: 1100
+        height: 830
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8cedc8f8c0ecee6f0800000000000000
+      internalID: -653358342578839864
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HELLO_SPRITE_110
+      rect:
+        serializedVersion: 2
+        x: 2200
+        y: 0
+        width: 1100
+        height: 830
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 27e5ff77b57155560800000000000000
+      internalID: 7301768052473814642
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HELLO_SPRITE_111
+      rect:
+        serializedVersion: 2
+        x: 3300
+        y: 0
+        width: 1100
+        height: 830
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 145b41fe667ce53a0800000000000000
+      internalID: -6674678352804793023
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HELLO_SPRITE_112
+      rect:
+        serializedVersion: 2
+        x: 4400
+        y: 0
+        width: 1100
+        height: 830
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3e7845123b2ae8c30800000000000000
+      internalID: 4363603979210622947
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HELLO_SPRITE_113
+      rect:
+        serializedVersion: 2
+        x: 5500
+        y: 0
+        width: 1100
+        height: 830
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 916b7ddde44c56300800000000000000
+      internalID: 244817597769954841
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HELLO_SPRITE_114
+      rect:
+        serializedVersion: 2
+        x: 6600
+        y: 0
+        width: 1100
+        height: 830
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c0d405fff26ae1610800000000000000
+      internalID: 1593894043212860684
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HELLO_SPRITE_115
+      rect:
+        serializedVersion: 2
+        x: 7700
+        y: 0
+        width: 1100
+        height: 830
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a3eedb93a9642c600800000000000000
+      internalID: 487029337917091386
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HELLO_SPRITE_116
+      rect:
+        serializedVersion: 2
+        x: 8800
+        y: 0
+        width: 1100
+        height: 830
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9bef90d0f6c67ddd0800000000000000
+      internalID: -2461379447118758215
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HELLO_SPRITE_117
+      rect:
+        serializedVersion: 2
+        x: 9900
+        y: 0
+        width: 1100
+        height: 830
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b7e71a4a2cf4b36e0800000000000000
+      internalID: -1856802723955900805
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HELLO_SPRITE_118
+      rect:
+        serializedVersion: 2
+        x: 11000
+        y: 0
+        width: 1100
+        height: 830
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 12669a90b77d72b70800000000000000
+      internalID: 8874298514199897633
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HELLO_SPRITE_119
+      rect:
+        serializedVersion: 2
+        x: 12100
+        y: 0
+        width: 1100
+        height: 830
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0384bf50779a1bf00800000000000000
+      internalID: 1130871310113261616
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
