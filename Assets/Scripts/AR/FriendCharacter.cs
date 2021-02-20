@@ -31,6 +31,10 @@ public class FriendCharacter : MonoBehaviour
     animator.SetBool("Hidden", _hidden);
     }
 
+    public void SetCharacterActive(bool isActive) {
+        transform.GetChild(1).gameObject.SetActive(isActive);
+    }
+
     public bool hidden {
         get { return _hidden; }
         set { 

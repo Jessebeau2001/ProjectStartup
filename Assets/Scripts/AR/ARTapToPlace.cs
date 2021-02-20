@@ -8,7 +8,6 @@ using UnityEngine.XR.ARSubsystems;
 
 public class ARTapToPlace : MonoBehaviour
 {
-    public GameObject ObjToPlace;
     public GameObject placementIndicator;
     private int clickIndex = 0;
     private Pose placementPose;
@@ -34,10 +33,6 @@ public class ARTapToPlace : MonoBehaviour
                 ARRootObject.SetActive(true);
                 canvas.GetComponent<Animator>().SetBool("ShowText", false);
             }
-
-            // if (clickIndex > 0 && clickIndex <= 10) {
-            //     PlaceObject(ObjToPlace);
-            // }
 
             if (clickIndex > 0) {
                 PhysicsRaycast();

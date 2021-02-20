@@ -93,6 +93,7 @@ GameObject:
   - component: {fileID: 8856620659251385238}
   - component: {fileID: 9151769809306341541}
   - component: {fileID: 5625392223843012049}
+  - component: {fileID: 8232734414722373657}
   m_Layer: 0
   m_Name: HideableObj
   m_TagString: Untagged
@@ -130,6 +131,7 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   wall: {fileID: 0}
   character: {fileID: 0}
+  animator: {fileID: 0}
 --- !u!65 &9151769809306341541
 BoxCollider:
   m_ObjectHideFlags: 0
@@ -162,6 +164,18 @@ Animator:
   m_HasTransformHierarchy: 1
   m_AllowConstantClipSamplingOptimization: 1
   m_KeepAnimatorControllerStateOnDisable: 0
+--- !u!114 &8232734414722373657
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 3167737197012499815}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 49e84fa2a27bd854d88ad47b7e7593f1, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
 --- !u!1001 &3746448502981584263
 PrefabInstance:
   m_ObjectHideFlags: 0
@@ -228,6 +242,10 @@ PrefabInstance:
     - target: {fileID: 6741558300311069563, guid: 0d0f43999c16f94488525bccc838f7e0, type: 3}
       propertyPath: m_Name
       value: MainCharacter
+      objectReference: {fileID: 0}
+    - target: {fileID: 6741558300311069563, guid: 0d0f43999c16f94488525bccc838f7e0, type: 3}
+      propertyPath: m_IsActive
+      value: 0
       objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 0d0f43999c16f94488525bccc838f7e0, type: 3}
