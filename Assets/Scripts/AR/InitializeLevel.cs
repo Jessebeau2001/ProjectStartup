@@ -20,7 +20,7 @@ public class InitializeLevel : MonoBehaviour
 
         for (int i = 0; i < vecList.Length; i++) {
             vecList[i] = new Vector3(Random.Range(-1 * bounds.x, bounds.x), standardHeight, Random.Range(-1 * bounds.z, bounds.z));
-            GameObject hideable = Instantiate(characterPrefab, vecList[i], Quaternion.Euler(0, 0, 0), transform.GetChild(0));
+            GameObject hideable = Instantiate(characterPrefab, transform.position + vecList[i], Quaternion.Euler(0, 0, 0), transform.GetChild(0));
             if (i == activeIndex) {
                 hideable.GetComponent<FriendCharacter>().SetCharacterActive(true);
             }

@@ -29,8 +29,8 @@ public class ARTapToPlace : MonoBehaviour
 
         if (placementPoseValid && Input.touchCount > 0 && Input.GetTouch(0).phase ==  TouchPhase.Began) {
             if (clickIndex == 0) { //Set 0,0,0 for Unity Root GameObject in the real world
-                ARRootObject.transform.position = placementPose.position; //Sometings wrong here, it sets it to 0,0,0 of the AR camera
                 ARRootObject.SetActive(true);
+                ARRootObject.transform.SetPositionAndRotation(placementPose.position, placementPose.rotation); //something might still be bugged here
                 canvas = GameObject.Find("Canvas");
                 canvas.GetComponent<Animator>().SetTrigger("FadeBottomText");
             }
