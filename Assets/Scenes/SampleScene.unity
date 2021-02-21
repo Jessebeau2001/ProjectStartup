@@ -522,7 +522,7 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 3167737197012499815, guid: 8787475184663a84283c2c927e9da57c, type: 3}
       propertyPath: m_IsActive
-      value: 0
+      value: 1
       objectReference: {fileID: 0}
     - target: {fileID: 7958103113114732284, guid: 8787475184663a84283c2c927e9da57c, type: 3}
       propertyPath: m_IsActive
@@ -668,7 +668,7 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 4896100638130331788, guid: 265de4a4bad31224cb8456a7e528d3b2, type: 3}
       propertyPath: m_IsActive
-      value: 1
+      value: 0
       objectReference: {fileID: 0}
     - target: {fileID: 4896100638130331789, guid: 265de4a4bad31224cb8456a7e528d3b2, type: 3}
       propertyPath: standardHeight

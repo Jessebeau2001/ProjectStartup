@@ -94,7 +94,6 @@ public class ARTapToPlace : MonoBehaviour
             if (character != null) {
                 if (character.enabled) {
                     character.ToggleHide();
-                    character.WaveOnce();
                 }
             }
         }

@@ -28,12 +28,9 @@ public class FriendCharacter : MonoBehaviour
         _hidden = !_hidden;
         wallAnimator.SetBool("Hidden", _hidden);
         rotationScript.enabled = _hidden;
-    
-        EndGame();
-    }
+        charAnim.SetBool("IsWaving", !_hidden);
 
-    public void WaveOnce() {
-        charAnim.SetTrigger("Wave");
+        EndGame();
     }
 
     public void SetCharacterActive(bool isActive) {
