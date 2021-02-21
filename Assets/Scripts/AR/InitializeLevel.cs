@@ -28,9 +28,4 @@ public class InitializeLevel : MonoBehaviour
         }
 
     }
-
-    void Update()
-    {
-        
-    }
 }

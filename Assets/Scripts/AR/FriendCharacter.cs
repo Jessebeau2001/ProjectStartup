@@ -8,12 +8,14 @@ public class FriendCharacter : MonoBehaviour
     [SerializeField] private Animator wallAnimator;
     [SerializeField] private Animator charAnim;
     [SerializeField] private FaceCamera rotationScript;
+    [SerializeField] private GameObject canvas;
     private bool _hidden = true;
     void Start() {
         characterObject = transform.GetChild(1).gameObject;
         wallAnimator = gameObject.GetComponent<Animator>();
         charAnim = characterObject.transform.GetChild(0).GetComponent<Animator>();
         rotationScript = gameObject.GetComponent<FaceCamera>();
+        canvas = GameObject.Find("Canvas");
     }
 
     void Update() {
@@ -23,9 +25,11 @@ public class FriendCharacter : MonoBehaviour
     }
 
     public void ToggleHide() {
-    _hidden = !_hidden;
-    wallAnimator.SetBool("Hidden", _hidden);
-    rotationScript.enabled = _hidden;
+        _hidden = !_hidden;
+        wallAnimator.SetBool("Hidden", _hidden);
+        rotationScript.enabled = _hidden;
+    
+        EndGame();
     }
 
     public void WaveOnce() {
@@ -42,5 +46,16 @@ public class FriendCharacter : MonoBehaviour
             _hidden = value; 
             wallAnimator.SetBool("Hidden", _hidden);
         }
+    }
+
+    private void EndGame() {
+        StartCoroutine(BackToMenu());
+        canvas.GetComponent<Animator>().SetTrigger("FadeTopText");
+        this.enabled = false; //To disable this script so it cant be interacted with again.
+    }
+
+    IEnumerator BackToMenu() {
+        yield return new WaitForSeconds(5.0f);
+        Utils.LoadSceneStatic("GamesScene");
     }
 }

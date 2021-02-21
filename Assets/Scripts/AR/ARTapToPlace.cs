@@ -15,7 +15,7 @@ public class ARTapToPlace : MonoBehaviour
     private bool placementPoseValid = false;
     public GameObject ARRootObject;
     public Color colorIndicator = new Color(0, 255, 0);
-    public GameObject canvas;
+    [SerializeField] private GameObject canvas;
     void Start()
     {
         raycastManager = FindObjectOfType<ARRaycastManager>();
@@ -29,9 +29,10 @@ public class ARTapToPlace : MonoBehaviour
 
         if (placementPoseValid && Input.touchCount > 0 && Input.GetTouch(0).phase ==  TouchPhase.Began) {
             if (clickIndex == 0) { //Set 0,0,0 for Unity Root GameObject in the real world
-                ARRootObject.transform.position = placementPose.position;
+                ARRootObject.transform.position = placementPose.position; //Sometings wrong here, it sets it to 0,0,0 of the AR camera
                 ARRootObject.SetActive(true);
-                canvas.GetComponent<Animator>().SetBool("ShowText", false);
+                canvas = GameObject.Find("Canvas");
+                canvas.GetComponent<Animator>().SetTrigger("FadeBottomText");
             }
 
             if (clickIndex > 0) {
@@ -91,8 +92,10 @@ public class ARTapToPlace : MonoBehaviour
             
             FriendCharacter character = hit.transform.gameObject.GetComponent<FriendCharacter>();
             if (character != null) {
-                character.ToggleHide();
-                character.WaveOnce();
+                if (character.enabled) {
+                    character.ToggleHide();
+                    character.WaveOnce();
+                }
             }
         }
     }
