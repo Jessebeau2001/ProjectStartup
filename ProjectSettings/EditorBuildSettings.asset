@@ -5,9 +5,18 @@ EditorBuildSettings:
   m_ObjectHideFlags: 0
   serializedVersion: 2
   m_Scenes:
-  - enabled: 0
-    path: Assets/Scenes/Scene Tom.unity
-    guid: c28eb4368d2e79d448726e478ee7ee9d
+  - enabled: 1
+    path: Assets/Scenes/AppInterface/AlarmScene.unity
+    guid: 36b4bb219a633a94da5c98e07438c984
+  - enabled: 1
+    path: Assets/Scenes/AppInterface/NapScreen.unity
+    guid: b04db7f03b370824e94a57f8c8c513fc
+  - enabled: 1
+    path: Assets/Scenes/AppInterface/GamesScene.unity
+    guid: 2cda990e2423bbf4892e6590ba056729
+  - enabled: 1
+    path: Assets/Scenes/AppInterface/CharacterScene.unity
+    guid: 38c0c094b5d8ef34591372eeddb9658c
   - enabled: 1
     path: Assets/Scenes/ARTestScene.unity
     guid: 6f5b0414712d29d45a5074a2a42c6438

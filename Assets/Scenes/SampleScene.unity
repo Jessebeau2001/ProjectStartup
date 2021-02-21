@@ -504,10 +504,18 @@ PrefabInstance:
       propertyPath: m_IsActive
       value: 0
       objectReference: {fileID: 0}
+    - target: {fileID: 7958103113114732284, guid: 8787475184663a84283c2c927e9da57c, type: 3}
+      propertyPath: m_IsActive
+      value: 1
+      objectReference: {fileID: 0}
     - target: {fileID: 8232734414722373657, guid: 8787475184663a84283c2c927e9da57c, type: 3}
       propertyPath: cam
       value: 
       objectReference: {fileID: 963194227}
+    - target: {fileID: 8856620659251385238, guid: 8787475184663a84283c2c927e9da57c, type: 3}
+      propertyPath: hasCharacterHiding
+      value: 1
+      objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 8787475184663a84283c2c927e9da57c, type: 3}
 --- !u!1001 &3596662503204263533
@@ -637,6 +645,10 @@ PrefabInstance:
     - target: {fileID: 4896100638130331788, guid: 265de4a4bad31224cb8456a7e528d3b2, type: 3}
       propertyPath: m_Name
       value: ARRootObject
+      objectReference: {fileID: 0}
+    - target: {fileID: 4896100638130331788, guid: 265de4a4bad31224cb8456a7e528d3b2, type: 3}
+      propertyPath: m_IsActive
+      value: 1
       objectReference: {fileID: 0}
     - target: {fileID: 4896100638130331789, guid: 265de4a4bad31224cb8456a7e528d3b2, type: 3}
       propertyPath: standardHeight

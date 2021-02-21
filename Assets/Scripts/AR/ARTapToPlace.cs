@@ -92,6 +92,7 @@ public class ARTapToPlace : MonoBehaviour
             FriendCharacter character = hit.transform.gameObject.GetComponent<FriendCharacter>();
             if (character != null) {
                 character.ToggleHide();
+                character.WaveOnce();
             }
         }
     }
